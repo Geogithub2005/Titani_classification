@@ -36,5 +36,5 @@ Thank you for taking the time to explore this project, and we look forward to sh
 
 <h3>Happy coding!</h3>
 
-Geo J
-Intern at Seven7 Code Technologies
+<h4>Geo J</h4>
+<h4>Intern at Seven7 Code Technologies</h4>
