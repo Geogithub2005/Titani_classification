@@ -1,4 +1,4 @@
-<span style="font-size: 20px;">Titanic Survival Prediction</span>
+<span style="font-size: 100px;">Titanic Survival Prediction</span>
 Welcome to the Titanic Survival Prediction project, developed as part of my internship at Seven7 Code Technologies.
 In this project, we aim to predict the survival outcomes of passengers aboard the Titanic based on various features and data analysis.
 
